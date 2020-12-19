@@ -1,0 +1,12 @@
+body{
+    background-image: url("music\images\Whitebackground.png");
+    background-color: #cccccc;
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand{
+    font-family: 'Norican', cursive;
+}
